@@ -6,12 +6,12 @@
 </h1>
 
 <div align="center">
-  <img height="200" src="https://tr.rbxcdn.com/180DAY-c961d582d3dfd1c74fdeece0a6c758fa/768/432/Image/Webp/noFilter"  />
+  <img height="200" src="https://tr.rbxcdn.com/180DAY-c961d582d3dfd1c74fdeece0a6c758fa/768/432/Image/Webp/noFilter"/>
 </div>
 
 ###
 
-<p align="center">loadstring(game:HttpGet("https://github.com/WareZ57/Make-a-Army-Script/blob/main/MakeArmy.lua"))()</p>
+<p align="center">loadstring(game:HttpGet("https://raw.githubusercontent.com/WareZ57/Make-a-Army-Script/refs/heads/main/MakeArmy.lua"))()</p>
 
 ###
 
