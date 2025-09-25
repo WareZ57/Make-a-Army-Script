@@ -1,2 +1,38 @@
-# Make-a-Army
-Free script for Make a Army on ROBLOX 
+<h1 align="center">
+  <a href="https://www.roblox.com/games/428375933/The-Legend-of-The-Bone-Sword-RPG" 
+     style="text-decoration:none; color:inherit;">
+    Make a Army SCRIPT
+  </a>
+</h1>
+
+<div align="center">
+  <img height="200" src="https://tr.rbxcdn.com/180DAY-c961d582d3dfd1c74fdeece0a6c758fa/768/432/Image/Webp/noFilter"  />
+</div>
+
+###
+
+<p align="center">loadstring(game:HttpGet("https://github.com/WareZ57/Make-a-Army-Script/blob/main/MakeArmy.lua"))()</p>
+
+###
+
+<h2 align="center">Features :</h2>
+
+###
+
+<p align="center">Infinite Money loop</p>
+
+###
+
+<h2 align="center">Made & Tested with</h2>
+
+###
+
+<p align="center">
+  <a href="https://sirius.menu/" target="_blank">
+    <img src="https://image.noelshack.com/fichiers/2025/39/1/1758549544-t-l-chargement.png" height="50" />
+  </a>
+  <a href="https://www.xeno.onl/" target="_blank">
+    <img src="https://www.xeno.onl/images/xeno.png" height="50" />
+  </a>
+</p>
+
